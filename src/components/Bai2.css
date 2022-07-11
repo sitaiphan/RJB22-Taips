@@ -1,0 +1,33 @@
+.main-bai2 {
+    width: 255px;
+    height:361px;
+    padding: 10 26px;
+    margin:20px;
+    border: 0.5px solid rgb(165, 163, 163);
+    background-color: white;
+}
+.img-bai2 {
+    display: flex;
+    margin:auto;
+    width: 200px;
+}
+.title-bai2 {
+    font-size:12px;
+    font-weight: 400;
+}
+.border-bai2 {
+    border-bottom: 0.5px solid  rgb(150, 150, 150);
+}
+.p-bai2 {
+    color:rgb(76, 76, 248);
+    font-weight: 400;
+}
+.p-money {
+    color:black;
+    font-weight: 500;
+}
+.star-yellow {
+    color:rgba(255, 208, 0, 0.87)
+}
+.container {
+}
