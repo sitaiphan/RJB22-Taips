@@ -1,5 +1,5 @@
 import React from 'react'
-import './img-HW/basic-images/2.jpg'
+import './img-session02/2.jpg'
 import './Bai2.css'
 import { AiFillStar } from 'react-icons/ai';
 import { AiOutlineStar } from 'react-icons/ai';

@@ -1,5 +1,5 @@
 import React from 'react'
-import image from './img-HW/basic-images/3.jpg'
+import image from './img-session02/3.jpg'
 import './Bai3.css'
 
 export default function Bai3() {

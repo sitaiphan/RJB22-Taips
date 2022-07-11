@@ -1,7 +1,7 @@
 import React from 'react'
-import './menu.css'
-import './img-HW/basic-images/1.jpg'
-import image from './img-HW/basic-images/1.jpg'
+import './Bai1.css'
+import './img-session02/1.jpg'
+import image from './img-session02/1.jpg'
 
 export default function Menu() {
   return (

@@ -1,13 +1,13 @@
 import './App.css';
-import Bai2 from './homeword-ss2/Bai2';
-import Bai3 from './homeword-ss2/Bai3';
-import Menu from './homeword-ss2/menu';
+import Bai2 from './homeword/session02/Bai2';
+import Bai3 from './homeword/session02/Bai3';
+import Bai1 from './homeword/session02/Bai1';
  
 
 function App() {
   return (
     <>
-    <Menu color='red' size={20}></Menu>
+    <Bai1></Bai1>
     <Bai2></Bai2>
     <Bai3></Bai3>
     </>
